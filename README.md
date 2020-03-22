@@ -30,9 +30,7 @@ In production this interface will not be visible
 - $_Get['uid']-The Unique device id (varchar)
 - $_Get['map_url']-The URL to show show the location on google maps (varchar)
 
-
-
-![db storage](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/post_image.PNG)
+<br>
 
 
 
@@ -45,15 +43,29 @@ Note:right now we are using a temporary db coz we dont actually have a server bu
 
 
 
+## Data Storage format
+
+![db storage](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/post_image.PNG)
+
+
+
+
 
 This app is made for the purpouses of demonstration and development of the Contact Tracing concept for Corona Virus in Fiji
 
 Developed by PKSU  if you need any help contact :https://www.linkedin.com/in/prilvesh-k-4349ba54/
 
 
+## On google maps
+You can view your individual  location just to see if gps works correct .
+
+![actual client](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/on_gmap.jpg)
 
 
 
+
+
+## App View
 Finally this is what the demo app looks like not this is just th synchronization client for the backend  :
 
 ![actual client](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/GPS_Client.jpg)
@@ -63,9 +75,7 @@ Finally this is what the demo app looks like not this is just th synchronization
 
 
 
-You can view your individual  location just to see if gps works correct .
 
-![actual client](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/on_gmap.jpg)
 
 
 
