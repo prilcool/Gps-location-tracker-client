@@ -15,6 +15,13 @@ Conncted clients are Viewable at the following test storage location
  https://webhook.site/#!/76119bcd-0837-4937-940a-04b0169c89d0/10a6335d-b8bc-41d2-875e-9507d2c2b265/1
 
 
+
+## Data Storage format
+
+![db storage](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/post_image.PNG)
+
+
+
 Developed by PKSU  if you need any help contact :https://www.linkedin.com/in/prilvesh-k-4349ba54/
 
 ## Installation Instructions for testers:
@@ -69,9 +76,6 @@ If you would like to have the data sync to your own server
  * Provide your server url or ipaddress and a enpoint address that will accept the data using the above parameters to author . 
 
 
-## Data Storage format
-
-![db storage](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/post_image.PNG)
 
 
 
