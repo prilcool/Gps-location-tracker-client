@@ -2,13 +2,18 @@
 
 This android app records your locations every 60 seconds
 
-
 Your GPS Location is updated ever 60 seconds
 
 Conncted clients Viewable at test storage location
 
  https://webhook.site/#!/76119bcd-0837-4937-940a-04b0169c89d0/10a6335d-b8bc-41d2-875e-9507d2c2b265/1
- 
+
+
+## Installation Instructions for testers:
+1 - Download the gps_path_tracing_fj_v1.apk
+2 - Install onto your android mobile or table
+3 - Since its not hosted on google you will need to go to Settings  > Security >Install Unknown Apps.
+
 ## Concept location Tracking service
 Conditions of using Test client to Synchronize data to the Backend 
 Your Device must have GPS and conencted to the internet"
@@ -66,7 +71,7 @@ You can view your individual  location just to see if gps works correct .
 
 
 ## App View
-Finally this is what the demo app looks like not this is just th synchronization client for the backend  :
+Finally this is the GPS tracker client view , In case if you wish to preview prior to instal.
 
 ![actual client](https://raw.githubusercontent.com/prilcool/Gps-location-tracker-client/master/GPS_Client.jpg)
 
