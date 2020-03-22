@@ -3,6 +3,8 @@
 
 This app is made for the purpouses of demonstration and development of the Contact Tracing concept for Corona Virus in Fiji.
 
+It's core purpouse is to collect your  location based on your gps and store it into a database .
+From which the data can be used for  numerous purpouses by numerous frontends .
 
 This android app records your location every 60 seconds
 
@@ -28,7 +30,7 @@ Developed by PKSU  if you need any help contact :https://www.linkedin.com/in/pri
 
 * Your Device must have GPS and conencted to the internet"
 * The application must be open and in focus "
-* In production this interface will not be visible
+* In production this interface will not be visible its only visible since devs would like to test it.
 
 
 ## Test Device 
@@ -51,11 +53,15 @@ Developed by PKSU  if you need any help contact :https://www.linkedin.com/in/pri
 
 
 ## Data Return format example
-From the data that is stored you can simply query the database and return it in any way you like example :
+From the data that is stored you can simply query the database and return information in numerous formats basically any way you like.
 
-Note:right now we are using a temporary db coz we dont actually have a dedicated server but heres the expected return format of the data in json.
+## For example :
 
 `{\"uid\":\"177efaedx007x\",\"lat\":\"178.100256\",\"lon\":\"-19.096252\",\"time\":\"22-03-2019 13:16:49\"}`
+
+### Note:
+right now we are using a temporary database.
+
 
 # Syncing the data to your own server :
 If you would like to have the data sync to your own server
