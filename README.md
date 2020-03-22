@@ -1,13 +1,19 @@
 # Gps-location-tracker-client for Corona Path Tracking
 
-This android app records your locations every 60 seconds
 
-Your GPS Location is updated ever 60 seconds
+This app is made for the purpouses of demonstration and development of the Contact Tracing concept for Corona Virus in Fiji.
 
-Conncted clients Viewable at test storage location
+
+This android app records your location every 60 seconds
+
+Your GPS Location is updated into the backend ever 60 seconds .
+
+Conncted clients are Viewable at the following test storage location
 
  https://webhook.site/#!/76119bcd-0837-4937-940a-04b0169c89d0/10a6335d-b8bc-41d2-875e-9507d2c2b265/1
 
+
+Developed by PKSU  if you need any help contact :https://www.linkedin.com/in/prilvesh-k-4349ba54/
 
 ## Installation Instructions for testers:
 * 1 - Download the gps_path_tracing_fj_v1.apk
@@ -63,11 +69,6 @@ If you would like to have the data sync to your own server
 
 
 
-
-
-This app is made for the purpouses of demonstration and development of the Contact Tracing concept for Corona Virus in Fiji
-
-Developed by PKSU  if you need any help contact :https://www.linkedin.com/in/prilvesh-k-4349ba54/
 
 
 ## On google maps
