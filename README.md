@@ -11,7 +11,8 @@ Conncted clients Viewable at test storage location
 
 ## Installation Instructions for testers:
 * 1 - Download the gps_path_tracing_fj_v1.apk
-   https://github.com/prilcool/Gps-location-tracker-client/blob/master/gps_path_tracing_fj_v1.apk
+   
+   * https://github.com/prilcool/Gps-location-tracker-client/blob/master/gps_path_tracing_fj_v1.apk
    
 * 2 - Install onto your android mobile or table
 * 3 - Since its not hosted on google you will need to go to Settings  > Security >Install Unknown Apps.
