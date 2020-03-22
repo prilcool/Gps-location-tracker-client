@@ -18,10 +18,11 @@ Conncted clients Viewable at test storage location
 * 3 - Since its not hosted on google you will need to go to Settings  > Security >Install Unknown Apps.
 
 ## Concept location Tracking service
-Conditions of using Test client to Synchronize data to the Backend 
-Your Device must have GPS and conencted to the internet"
-The application must be open and in focus "
-In production this interface will not be visible
+### Conditions of using Test client to Synchronize data to the Backend 
+
+* Your Device must have GPS and conencted to the internet"
+* The application must be open and in focus "
+* In production this interface will not be visible
 
 
 ## Test Device 
@@ -45,10 +46,15 @@ In production this interface will not be visible
 
 ## Data Return format example
 From the data that is stored you can simply query the database and return it in any way you like example :
-Note:right now we are using a temporary db coz we dont actually have a server but heres the expected return format
+
+Note:right now we are using a temporary db coz we dont actually have a dedicated server but heres the expected return format of the data in json.
 
 `{\"uid\":\"177efaedx007x\",\"lat\":\"178.100256\",\"lon\":\"-19.096252\",\"time\":\"22-03-2019 13:16:49\"}`
 
+# Syncing the data to your own server :
+If you would like to have the data sync to your own server
+ 
+ * Provide your server url or ipaddress and a enpoint address that will accept the data using the above parameters to author . 
 
 
 ## Data Storage format
